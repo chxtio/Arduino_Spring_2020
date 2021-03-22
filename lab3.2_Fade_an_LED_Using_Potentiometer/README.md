@@ -12,4 +12,4 @@
 
 ![image](https://user-images.githubusercontent.com/33184844/111952683-b9b64f80-8aa2-11eb-9bfb-a7f5614de80b.png)
 
-![gif](https://osoyoo.com/wp-content/uploads/2017/07/Potentiometer2.gif)
+![Potentiometer2](https://user-images.githubusercontent.com/33184844/111953829-6218e380-8aa4-11eb-91af-30938ee86672.gif)
