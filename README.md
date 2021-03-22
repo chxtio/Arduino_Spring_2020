@@ -4,4 +4,6 @@
 
 [Arduino Schematic Diagram](https://learn.circuit.rocks/the-basic-arduino-schematic-diagram)
 
+![](https://learn.circuit.rocks/wp-content/uploads/2019/12/arduinogardware-e1600234850301.png)
+
 ![](https://learn.circuit.rocks/wp-content/uploads/2019/12/arduino.png)
