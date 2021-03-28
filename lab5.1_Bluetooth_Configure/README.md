@@ -10,4 +10,4 @@
 
 ![image](https://user-images.githubusercontent.com/33184844/112755275-d23bd380-8f94-11eb-8169-0e7355c4accf.png)
 
-![bt_configure](https://user-images.githubusercontent.com/33184844/112755414-71f96180-8f95-11eb-92a8-d2127b2ab2ba.jpg)
+![image](https://user-images.githubusercontent.com/33184844/112755518-dcaa9d00-8f95-11eb-9fa3-9060813fdd28.png)
