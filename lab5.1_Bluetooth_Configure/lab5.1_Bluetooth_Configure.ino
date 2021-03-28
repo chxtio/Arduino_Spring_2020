@@ -18,20 +18,21 @@
 #include <SoftwareSerial.h>
 SoftwareSerial BTserial(8, 9); // RX | TX
  
-//const long baudRate = 38400; 
-const long baudRate = 9600; 
+const long baudRate = 38400; 
+//const long baudRate = 9600; 
 char c=' ';
 boolean NL = true;
  
 void setup() 
 {
-    Serial.begin(9600);
-    //Serial.begin(38400);
+//    Serial.begin(9600);
+//    Serial.begin(38400);
+    Serial.begin(115200);
     Serial.print("Sketch:   ");   Serial.println(__FILE__);
     Serial.print("Uploaded: ");   Serial.println(__DATE__);
     Serial.println(" ");
  
-    BTserial.begin(baudRate);  
+    BTserial.begin(baudRate);   //Baud rate for command mode
     Serial.print("BTserial started at "); Serial.println(baudRate);
     Serial.println(" ");
 }
